@@ -1,0 +1,6 @@
+{
+  "name": "WorkPulse - 企業出勤與人事工時管理系統",
+  "description": "全功能企業出勤打卡、請假審批、加班自動計算、人事檔案管理與每月工時統計報表匯出系統。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
